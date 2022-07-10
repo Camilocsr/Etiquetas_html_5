@@ -1,0 +1,69 @@
+*{
+    box-sizing: border-box;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#documento{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.h{
+    padding: 30px;
+    margin-right: 10%;
+    font-weight: 800;
+    line-height: 1em;
+    color: #ffA500;
+}
+
+.rtp{
+    margin-right: 10%;
+    font-weight: 800;
+    line-height: 1em;
+    color: #ffA500;
+}
+
+.autor{
+    padding: 30px;
+    display: block;
+    color: white;
+}
+
+.art{
+    height: 400px;
+    background-image: url(../images/fondo1.jpg);
+    background-size: 100%;
+}
+
+h5{
+    color: #ffA500;
+}
+
+.aside{
+    display: block;
+    padding: 10px;
+    height: 500px;
+}
+
+.dfg{
+    padding: 30px;
+    height: 450px;
+}
+
+.bnm{
+    padding: 30px;
+    height: 450px;
+}
+
+.m{
+    height: 450px;
+}
+
+.primer{
+    background-color: black;
+}
